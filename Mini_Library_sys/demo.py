@@ -1,4 +1,4 @@
-from Mini_Library_sys import operations
+import operations  
 
 print("\n--- DEMO: Library Management System ---")
 
